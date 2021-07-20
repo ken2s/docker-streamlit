@@ -3,7 +3,7 @@ services:
   streamlit:
     restart: always
     build: .
-    image: streamlit:20210720
+    image: ken2s/streamlit:20210720
     ports:
       - "8501:8501"
     tty: true
