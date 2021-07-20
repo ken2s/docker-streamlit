@@ -1,6 +1,6 @@
 # Docker-Streamlit
 
-### Docker Pull Command
+### Docker pull command
 
 ```
  docker pull ken2s/streamlit
