@@ -1,7 +1,13 @@
 # Docker_Streamlit
 
-## Usage
+### Docker Pull Command
 
 ```
-# docker-compose up -d
+ docker pull ken2s/streamlit
+```
+
+### Create and start containers in the background
+
+```
+ docker-compose up -d
 ```
